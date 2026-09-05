@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Settings</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="search_event">Search Event</string>
+    <string name="quota_left">Quota Left: %1$d</string>
+    <string name="register_now">Register Now</string>
+    <string name="owner">Owner: %1$s</string>
+    <string name="begin_time">Start: %1$s</string>
+    <string name="no_results">Tidak ada event yang ditemukan</string>
+    <string name="no_favorites">Belum ada event favorit</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="event_image">Gambar Event</string>
+</resources>
